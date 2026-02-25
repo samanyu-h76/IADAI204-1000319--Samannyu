@@ -134,7 +134,7 @@ This project demonstrates how sports analytics can transform raw data into meani
 
 ---
 ## Link for the published Tableau Public
-https://public.tableau.com/app/profile/samanyu.h/viz/IPLPerformanceAIunit-4SA/Storyboard?publish=yes
+https://public.tableau.com/views/IPLPerformanceAIunit-4SA/Storyboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 ## Repository Contents
