@@ -133,7 +133,10 @@ This project demonstrates how sports analytics can transform raw data into meani
 - Predictive modelling for match outcomes.
 
 ---
+## Link for the published Tableau Public
+https://public.tableau.com/app/profile/samanyu.h/viz/IPLPerformanceAIunit-4SA/Storyboard?publish=yes
 
+---
 ## Repository Contents
 
 - Data folder (Datasets)
